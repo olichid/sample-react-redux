@@ -2,14 +2,346 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3b3a989-b3dc-442b-88ca-f2399dcac523" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SongDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SongList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/acorn" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/acorn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/ansi-html" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/ansi-html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/atob" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/atob" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/autoprefixer" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/autoprefixer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/babylon" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/babylon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/cssesc" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/cssesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/detect" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/detect" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/detect-port" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/detect-port" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/errno" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/errno" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/escodegen" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/escodegen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/esgenerate" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/esgenerate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/eslint" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/eslint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/esparse" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/esparse" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/esvalidate" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/esvalidate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/he" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/he" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/html-minifier" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/html-minifier" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/import-local-fixture" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/import-local-fixture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/is-ci" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/is-ci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/jest" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/jest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/jest-runtime" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/jest-runtime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/js-yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/js-yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/jsesc" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/jsesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/loose-envify" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/loose-envify" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/miller-rabin" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/miller-rabin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/mime" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/mime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/multicast-dns" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/multicast-dns" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/prettier" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/prettier" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/react-scripts" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/react-scripts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/regjsparser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/regjsparser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/rimraf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/sane" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/sane" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/sha.js" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/sha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/sshpk-conv" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/sshpk-conv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/sshpk-sign" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/sshpk-sign" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/sshpk-verify" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/sshpk-verify" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/svgo" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/svgo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/terser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/terser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/uglifyjs" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/uglifyjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/uuid" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/watch" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/watch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/webpack-dev-server" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/webpack-dev-server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/.bin/which" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/.bin/which" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/@babel/generator/node_modules/.bin/jsesc" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/@babel/generator/node_modules/.bin/jsesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/@babel/preset-env/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/@babel/preset-env/node_modules/.bin/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/@babel/preset-env/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/@babel/preset-env/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/@babel/template/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/@babel/template/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/@babel/traverse/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/@babel/traverse/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/@svgr/core/node_modules/.bin/prettier" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/@svgr/core/node_modules/.bin/prettier" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/@svgr/core/node_modules/.bin/svgo" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/@svgr/core/node_modules/.bin/svgo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/acorn-dynamic-import/node_modules/.bin/acorn" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/acorn-dynamic-import/node_modules/.bin/acorn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/acorn-globals/node_modules/.bin/acorn" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/acorn-globals/node_modules/.bin/acorn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/acorn-jsx/node_modules/.bin/acorn" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/acorn-jsx/node_modules/.bin/acorn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/autoprefixer/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/autoprefixer/node_modules/.bin/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-core/node_modules/.bin/babylon" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-core/node_modules/.bin/babylon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-eslint/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-eslint/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-extract-comments/node_modules/.bin/babylon" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-extract-comments/node_modules/.bin/babylon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-generator/node_modules/.bin/jsesc" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-generator/node_modules/.bin/jsesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-jest/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-jest/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-jest/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-jest/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-jest/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-jest/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-async-generator-functions/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-async-generator-functions/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-async-generator-functions/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-async-generator-functions/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-async-generator-functions/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-async-generator-functions/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-json-strings/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-json-strings/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-json-strings/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-json-strings/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-json-strings/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-json-strings/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-optional-catch-binding/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-optional-catch-binding/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-optional-catch-binding/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-optional-catch-binding/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-optional-catch-binding/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-optional-catch-binding/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-unicode-property-regex/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-unicode-property-regex/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-unicode-property-regex/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-unicode-property-regex/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-unicode-property-regex/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-unicode-property-regex/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-syntax-async-generators/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-syntax-async-generators/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-syntax-async-generators/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-syntax-async-generators/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-syntax-async-generators/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-syntax-async-generators/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-syntax-optional-catch-binding/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-syntax-optional-catch-binding/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-syntax-optional-catch-binding/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-syntax-optional-catch-binding/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-syntax-optional-catch-binding/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-syntax-optional-catch-binding/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-arrow-functions/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-arrow-functions/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-arrow-functions/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-arrow-functions/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-arrow-functions/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-arrow-functions/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-async-to-generator/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-async-to-generator/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-async-to-generator/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-async-to-generator/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-async-to-generator/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-async-to-generator/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-block-scoped-functions/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-block-scoped-functions/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-block-scoped-functions/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-block-scoped-functions/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-block-scoped-functions/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-block-scoped-functions/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-block-scoping/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-block-scoping/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-block-scoping/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-block-scoping/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-block-scoping/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-block-scoping/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-computed-properties/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-computed-properties/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-computed-properties/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-computed-properties/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-computed-properties/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-computed-properties/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-dotall-regex/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-dotall-regex/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-dotall-regex/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-dotall-regex/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-dotall-regex/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-dotall-regex/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-duplicate-keys/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-duplicate-keys/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-duplicate-keys/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-duplicate-keys/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-duplicate-keys/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-duplicate-keys/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-exponentiation-operator/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-exponentiation-operator/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-exponentiation-operator/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-exponentiation-operator/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-exponentiation-operator/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-exponentiation-operator/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-for-of/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-for-of/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-for-of/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-for-of/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-for-of/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-for-of/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-function-name/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-function-name/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-function-name/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-function-name/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-function-name/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-function-name/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-literals/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-literals/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-literals/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-literals/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-literals/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-literals/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-amd/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-amd/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-amd/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-amd/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-amd/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-amd/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-commonjs/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-commonjs/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-commonjs/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-commonjs/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-commonjs/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-commonjs/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-systemjs/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-systemjs/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-systemjs/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-systemjs/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-systemjs/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-systemjs/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-umd/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-umd/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-umd/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-umd/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-umd/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-modules-umd/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-new-target/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-new-target/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-new-target/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-new-target/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-new-target/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-new-target/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-object-super/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-object-super/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-object-super/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-object-super/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-object-super/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-object-super/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-parameters/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-parameters/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-parameters/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-parameters/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-parameters/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-parameters/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-regenerator/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-regenerator/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-regenerator/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-regenerator/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-regenerator/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-regenerator/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-runtime/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-runtime/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-shorthand-properties/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-shorthand-properties/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-shorthand-properties/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-shorthand-properties/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-shorthand-properties/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-shorthand-properties/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-spread/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-spread/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-spread/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-spread/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-spread/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-spread/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-sticky-regex/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-sticky-regex/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-sticky-regex/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-sticky-regex/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-sticky-regex/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-sticky-regex/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-template-literals/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-template-literals/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-template-literals/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-template-literals/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-template-literals/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-template-literals/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-typeof-symbol/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-typeof-symbol/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-typeof-symbol/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-typeof-symbol/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-typeof-symbol/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-typeof-symbol/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-unicode-regex/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-unicode-regex/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-unicode-regex/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-unicode-regex/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-unicode-regex/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-unicode-regex/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/.bin/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-proposal-object-rest-spread/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-proposal-object-rest-spread/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-proposal-object-rest-spread/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-proposal-object-rest-spread/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-proposal-object-rest-spread/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-proposal-object-rest-spread/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-transform-classes/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-transform-classes/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-transform-classes/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-transform-classes/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-transform-classes/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-transform-classes/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-transform-destructuring/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-transform-destructuring/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-transform-destructuring/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-transform-destructuring/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-transform-destructuring/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-env/node_modules/@babel/plugin-transform-destructuring/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-react/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-react/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-react/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-react/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-react/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/@babel/preset-react/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/babel-loader/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/babel-loader/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/babel-loader/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-preset-react-app/node_modules/babel-loader/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-register/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-register/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-template/node_modules/.bin/babylon" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-template/node_modules/.bin/babylon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/babel-traverse/node_modules/.bin/babylon" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/babel-traverse/node_modules/.bin/babylon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/bonjour/node_modules/.bin/multicast-dns" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/bonjour/node_modules/.bin/multicast-dns" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/cacache/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/cacache/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/cacache/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/cacache/node_modules/.bin/rimraf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/caniuse-api/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/caniuse-api/node_modules/.bin/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/copy-concurrently/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/copy-concurrently/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/copy-concurrently/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/copy-concurrently/node_modules/.bin/rimraf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/cosmiconfig/node_modules/.bin/js-yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/cosmiconfig/node_modules/.bin/js-yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/create-hash/node_modules/.bin/sha.js" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/create-hash/node_modules/.bin/sha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/create-hmac/node_modules/.bin/sha.js" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/create-hmac/node_modules/.bin/sha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/cross-spawn/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/cross-spawn/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/cross-spawn/node_modules/.bin/which" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/cross-spawn/node_modules/.bin/which" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/css-loader/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/css-loader/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/css-selector-tokenizer/node_modules/.bin/cssesc" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/css-selector-tokenizer/node_modules/.bin/cssesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/css-selector-tokenizer/node_modules/regexpu-core/node_modules/.bin/regjsparser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/css-selector-tokenizer/node_modules/regexpu-core/node_modules/.bin/regjsparser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/css-selector-tokenizer/node_modules/regjsparser/node_modules/.bin/jsesc" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/css-selector-tokenizer/node_modules/regjsparser/node_modules/.bin/jsesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/del/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/del/node_modules/.bin/rimraf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/diffie-hellman/node_modules/.bin/miller-rabin" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/diffie-hellman/node_modules/.bin/miller-rabin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/escodegen/node_modules/.bin/esparse" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/escodegen/node_modules/.bin/esparse" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/escodegen/node_modules/.bin/esvalidate" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/escodegen/node_modules/.bin/esvalidate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/eslint-config-react-app/node_modules/.bin/eslint" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/eslint-config-react-app/node_modules/.bin/eslint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/eslint-loader/node_modules/.bin/eslint" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/eslint-loader/node_modules/.bin/eslint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/eslint-loader/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/eslint-loader/node_modules/.bin/rimraf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/eslint-loader/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/eslint-loader/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/eslint-plugin-flowtype/node_modules/.bin/eslint" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/eslint-plugin-flowtype/node_modules/.bin/eslint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/eslint-plugin-import/node_modules/.bin/eslint" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/eslint-plugin-import/node_modules/.bin/eslint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/eslint-plugin-jsx-a11y/node_modules/.bin/eslint" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/eslint-plugin-jsx-a11y/node_modules/.bin/eslint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/eslint-plugin-react/node_modules/.bin/eslint" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/eslint-plugin-react/node_modules/.bin/eslint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/eslint/node_modules/.bin/js-yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/eslint/node_modules/.bin/js-yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/eslint/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/eslint/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/eslint/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/eslint/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/espree/node_modules/.bin/acorn" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/espree/node_modules/.bin/acorn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/execa/node_modules/cross-spawn/node_modules/.bin/which" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/execa/node_modules/cross-spawn/node_modules/.bin/which" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/file-loader/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/file-loader/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/flat-cache/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/flat-cache/node_modules/.bin/rimraf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/fork-ts-checker-webpack-plugin-alt/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/fork-ts-checker-webpack-plugin-alt/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/global-prefix/node_modules/.bin/which" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/global-prefix/node_modules/.bin/which" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/h2x-parse/node_modules/jsdom/node_modules/.bin/acorn" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/h2x-parse/node_modules/jsdom/node_modules/.bin/acorn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/h2x-parse/node_modules/jsdom/node_modules/.bin/escodegen" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/h2x-parse/node_modules/jsdom/node_modules/.bin/escodegen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/h2x-parse/node_modules/jsdom/node_modules/.bin/esgenerate" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/h2x-parse/node_modules/jsdom/node_modules/.bin/esgenerate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/handlebars/node_modules/.bin/uglifyjs" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/handlebars/node_modules/.bin/uglifyjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/html-minifier/node_modules/.bin/he" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/html-minifier/node_modules/.bin/he" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/html-minifier/node_modules/.bin/uglifyjs" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/html-minifier/node_modules/.bin/uglifyjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/html-webpack-plugin/node_modules/.bin/html-minifier" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/html-webpack-plugin/node_modules/.bin/html-minifier" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/html-webpack-plugin/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/html-webpack-plugin/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/http-signature/node_modules/.bin/sshpk-conv" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/http-signature/node_modules/.bin/sshpk-conv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/http-signature/node_modules/.bin/sshpk-sign" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/http-signature/node_modules/.bin/sshpk-sign" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/http-signature/node_modules/.bin/sshpk-verify" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/http-signature/node_modules/.bin/sshpk-verify" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/invariant/node_modules/.bin/loose-envify" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/invariant/node_modules/.bin/loose-envify" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/istanbul-api/node_modules/.bin/js-yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/istanbul-api/node_modules/.bin/js-yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/istanbul-api/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/istanbul-api/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/istanbul-lib-instrument/node_modules/.bin/babylon" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/istanbul-lib-instrument/node_modules/.bin/babylon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/istanbul-lib-instrument/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/istanbul-lib-instrument/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/istanbul-lib-report/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/istanbul-lib-report/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/istanbul-lib-source-maps/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/istanbul-lib-source-maps/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/istanbul-lib-source-maps/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/istanbul-lib-source-maps/node_modules/.bin/rimraf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/istanbul-reports/node_modules/.bin/handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/istanbul-reports/node_modules/.bin/handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jest-cli/node_modules/.bin/import-local-fixture" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jest-cli/node_modules/.bin/import-local-fixture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jest-cli/node_modules/.bin/is-ci" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jest-cli/node_modules/.bin/is-ci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jest-cli/node_modules/.bin/jest-runtime" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jest-cli/node_modules/.bin/jest-runtime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jest-cli/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jest-cli/node_modules/.bin/rimraf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jest-cli/node_modules/.bin/which" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jest-cli/node_modules/.bin/which" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jest-haste-map/node_modules/.bin/sane" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jest-haste-map/node_modules/.bin/sane" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jest-runner/node_modules/.bin/jest-runtime" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jest-runner/node_modules/.bin/jest-runtime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jest-snapshot/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jest-snapshot/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jest-snapshot/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jest-snapshot/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jest-util/node_modules/.bin/is-ci" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jest-util/node_modules/.bin/is-ci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jest-util/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jest-util/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jest/node_modules/.bin/import-local-fixture" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jest/node_modules/.bin/import-local-fixture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jest/node_modules/.bin/jest" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jest/node_modules/.bin/jest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/js-yaml/node_modules/.bin/esparse" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/js-yaml/node_modules/.bin/esparse" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/js-yaml/node_modules/.bin/esvalidate" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/js-yaml/node_modules/.bin/esvalidate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jsdom/node_modules/.bin/acorn" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jsdom/node_modules/.bin/acorn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jsdom/node_modules/.bin/escodegen" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jsdom/node_modules/.bin/escodegen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/jsdom/node_modules/.bin/esgenerate" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/jsdom/node_modules/.bin/esgenerate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/loader-fs-cache/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/loader-fs-cache/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/loader-fs-cache/node_modules/find-cache-dir/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/loader-fs-cache/node_modules/find-cache-dir/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/loader-utils/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/loader-utils/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/memory-fs/node_modules/.bin/errno" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/memory-fs/node_modules/.bin/errno" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/mini-css-extract-plugin/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/mini-css-extract-plugin/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/move-concurrently/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/move-concurrently/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/move-concurrently/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/move-concurrently/node_modules/.bin/rimraf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/node-notifier/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/node-notifier/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/node-notifier/node_modules/.bin/which" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/node-notifier/node_modules/.bin/which" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/node-releases/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/node-releases/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/normalize-package-data/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/normalize-package-data/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/optimize-css-assets-webpack-plugin/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/optimize-css-assets-webpack-plugin/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/pbkdf2/node_modules/.bin/sha.js" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/pbkdf2/node_modules/.bin/sha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/portfinder/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/portfinder/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/postcss-colormin/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/postcss-colormin/node_modules/.bin/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/postcss-load-config/node_modules/cosmiconfig/node_modules/.bin/js-yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/postcss-load-config/node_modules/cosmiconfig/node_modules/.bin/js-yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/postcss-merge-rules/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/postcss-merge-rules/node_modules/.bin/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/postcss-minify-params/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/postcss-minify-params/node_modules/.bin/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/postcss-normalize-unicode/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/postcss-normalize-unicode/node_modules/.bin/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/postcss-preset-env/node_modules/.bin/autoprefixer" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/postcss-preset-env/node_modules/.bin/autoprefixer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/postcss-preset-env/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/postcss-preset-env/node_modules/.bin/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/postcss-reduce-initial/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/postcss-reduce-initial/node_modules/.bin/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/postcss-selector-parser/node_modules/.bin/cssesc" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/postcss-selector-parser/node_modules/.bin/cssesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/postcss-svgo/node_modules/.bin/svgo" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/postcss-svgo/node_modules/.bin/svgo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/prop-types/node_modules/.bin/loose-envify" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/prop-types/node_modules/.bin/loose-envify" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/react-dev-utils/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/react-dev-utils/node_modules/.bin/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/react-dev-utils/node_modules/.bin/detect" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/react-dev-utils/node_modules/.bin/detect" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/react-dev-utils/node_modules/.bin/detect-port" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/react-dev-utils/node_modules/.bin/detect-port" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/react-dev-utils/node_modules/loader-utils/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/react-dev-utils/node_modules/loader-utils/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/react-dom/node_modules/.bin/loose-envify" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/react-dom/node_modules/.bin/loose-envify" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/.bin/eslint" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/.bin/eslint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/.bin/jest" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/.bin/jest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/.bin/webpack-dev-server" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/.bin/webpack-dev-server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/@babel/core/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/babel-loader/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/babel-loader/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/babel-loader/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/react-scripts/node_modules/babel-loader/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/react/node_modules/.bin/loose-envify" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/react/node_modules/.bin/loose-envify" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/regexpu-core/node_modules/.bin/regjsparser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/regexpu-core/node_modules/.bin/regjsparser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/regjsparser/node_modules/.bin/jsesc" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/regjsparser/node_modules/.bin/jsesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/request/node_modules/.bin/uuid" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/request/node_modules/.bin/uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/sane/node_modules/.bin/watch" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/sane/node_modules/.bin/watch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/sass-loader/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/sass-loader/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/sass-loader/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/sass-loader/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/scheduler/node_modules/.bin/loose-envify" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/scheduler/node_modules/.bin/loose-envify" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/send/node_modules/.bin/mime" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/send/node_modules/.bin/mime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/sockjs/node_modules/.bin/uuid" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/sockjs/node_modules/.bin/uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/source-map-resolve/node_modules/.bin/atob" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/source-map-resolve/node_modules/.bin/atob" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/stylehacks/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/stylehacks/node_modules/.bin/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/svgo/node_modules/.bin/js-yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/svgo/node_modules/.bin/js-yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/svgo/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/svgo/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/terser-webpack-plugin/node_modules/.bin/terser" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/terser-webpack-plugin/node_modules/.bin/terser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/terser-webpack-plugin/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/terser-webpack-plugin/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/uglifyjs-webpack-plugin/node_modules/.bin/uglifyjs" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/uglifyjs-webpack-plugin/node_modules/.bin/uglifyjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/uglifyjs-webpack-plugin/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/uglifyjs-webpack-plugin/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/uglifyjs-webpack-plugin/node_modules/cacache/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/uglifyjs-webpack-plugin/node_modules/cacache/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/uglifyjs-webpack-plugin/node_modules/cacache/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/uglifyjs-webpack-plugin/node_modules/cacache/node_modules/.bin/rimraf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/url-loader/node_modules/.bin/mime" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/url-loader/node_modules/.bin/mime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/url-loader/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/url-loader/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/webpack-dev-middleware/node_modules/.bin/mime" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/webpack-dev-middleware/node_modules/.bin/mime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/webpack-dev-middleware/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/webpack-dev-middleware/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/webpack-dev-server/node_modules/.bin/ansi-html" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/webpack-dev-server/node_modules/.bin/ansi-html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/webpack-dev-server/node_modules/.bin/import-local-fixture" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/webpack-dev-server/node_modules/.bin/import-local-fixture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/webpack-dev-server/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/webpack-dev-server/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/webpack-dev-server/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/webpack-dev-server/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/webpack-log/node_modules/.bin/uuid" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/webpack-log/node_modules/.bin/uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/webpack-manifest-plugin/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/webpack-manifest-plugin/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/webpack/node_modules/.bin/acorn" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/webpack/node_modules/.bin/acorn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/webpack/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/webpack/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/workbox-webpack-plugin/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/workbox-webpack-plugin/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/worker-farm/node_modules/.bin/errno" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/worker-farm/node_modules/.bin/errno" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seasons/node_modules/write/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/write/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SongDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SongDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,11 +353,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="153">
               <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -37,8 +369,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/SongList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+            <state relative-caret-position="442">
+              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -46,11 +378,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/SongDetail.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+            <state relative-caret-position="425">
+              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -66,17 +398,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/actions/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="17">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            <state relative-caret-position="221">
+              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -87,8 +419,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+            <state relative-caret-position="391">
+              <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -104,10 +436,10 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/actions/index.js" />
-        <option value="$PROJECT_DIR$/src/reducers/index.js" />
         <option value="$PROJECT_DIR$/src/components/App.js" />
-        <option value="$PROJECT_DIR$/src/components/SongDetail.js" />
         <option value="$PROJECT_DIR$/src/components/SongList.js" />
+        <option value="$PROJECT_DIR$/src/reducers/index.js" />
+        <option value="$PROJECT_DIR$/src/components/SongDetail.js" />
       </list>
     </option>
   </component>
@@ -115,10 +447,10 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2081" />
-    <option name="y" value="27" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -128,7 +460,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,6 +499,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,6 +508,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -200,23 +533,21 @@
       <option name="presentableId" value="Default" />
       <updated>1547868779542</updated>
       <workItem from="1547868780656" duration="13270000" />
+      <workItem from="1548190334104" duration="2282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13270000" />
+    <option name="totallyTimeSpent" value="15552000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1987" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
+      <window_info id="npm" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24920969" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32937366" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
@@ -224,6 +555,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -270,37 +605,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        <state relative-caret-position="17">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/SongList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        <state relative-caret-position="442">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/actions/index.js">
+    <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        <state relative-caret-position="153">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
+    <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        <state relative-caret-position="391">
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -309,18 +654,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/SongDetail.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        <state relative-caret-position="425">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
