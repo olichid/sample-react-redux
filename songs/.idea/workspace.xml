@@ -337,11 +337,6 @@
       <change beforePath="$PROJECT_DIR$/../seasons/node_modules/workbox-webpack-plugin/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/workbox-webpack-plugin/node_modules/.bin/webpack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../seasons/node_modules/worker-farm/node_modules/.bin/errno" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/worker-farm/node_modules/.bin/errno" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../seasons/node_modules/write/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../seasons/node_modules/write/node_modules/.bin/mkdirp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SongDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SongDetail.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -446,7 +441,7 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -533,19 +528,18 @@
       <option name="presentableId" value="Default" />
       <updated>1547868779542</updated>
       <workItem from="1547868780656" duration="13270000" />
-      <workItem from="1548190334104" duration="2282000" />
+      <workItem from="1548190334104" duration="2569000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15552000" />
+    <option name="totallyTimeSpent" value="15839000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="npm" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24920969" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24920969" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -557,7 +551,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
